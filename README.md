@@ -1,7 +1,9 @@
 # ID-Fly_project
 
 Here you can find all the files of the ID-Fly project.  
-  
+
+https://github.com/Flosiccardi/ID-Fly_project/blob/main/video_dirigeable.mp4
+
 You can open the "Fonctionnement du dirigeable" file to understand how to control the airship.  
   
 # Carte Luxonis  
