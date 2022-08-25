@@ -4,6 +4,7 @@ Here you can find all the files of the ID-Fly project.
   
 You can open the "Fonctionnement du dirigeable" file to understand how to control the airship.  
   
+# Carte Luxonis  
 You can also open the "Connection-Wifi" file. It is a tutorial on how the wifi connection with the new Luxonis IOT (https://shop.luxonis.com/products/oak-d-iot-40)  
 Because some errors has been made in the following example: https://github.com/luxonis/esp32-spi-message-demo/tree/main/mjpeg_streaming_wifi  
   
@@ -13,11 +14,11 @@ deth calculation: https://github.com/luxonis/depthai-experiments/tree/master/gen
 hand tracker: https://github.com/geaxgx/depthai_hand_tracker/tree/main/examples/remote_control   
 
 
-#Fusion
+# Fusion
 
 In this folder are loaded all the 3D files used in the project, so that you either use or modify them
 
-#Code
+# Code
 
 In this folder you can access to all the code used for the project
 
