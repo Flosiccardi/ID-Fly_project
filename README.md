@@ -1,6 +1,7 @@
 # ID-Fly_project
 
-Here you can find all the files of the ID-Fly project
+Here you can find all the files of the ID-Fly project.
+You can open the "Fonctionnement du dirigeable" file to understand how to control the airship.
 
 #Fusion
 
