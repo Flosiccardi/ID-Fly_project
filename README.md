@@ -2,7 +2,7 @@
 
 Here you can find all the files of the ID-Fly project.  
 
-[![Watch the video](https://i9.ytimg.com/vi/Ms-zu2tdAqg/mq2.jpg?sqp=CPCcnpgG&rs=AOn4CLBm5OmjS1P4Ycxc5Ba6TRCx7xwy4Q)](https://youtu.be/Ms-zu2tdAqg)
+[![Watch the video](https://i9.ytimg.com/vi/Ms-zu2tdAqg/mq2.jpg?sqp=CKSoqJgG&rs=AOn4CLAx9GZdkqSVShBwA3hNhNMU70qG8Q)](https://youtu.be/Ms-zu2tdAqg)
 
 You can open the "Fonctionnement du dirigeable" file to understand how to control the airship.  
   
