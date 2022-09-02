@@ -24,4 +24,6 @@ In this folder are loaded all the 3D files used in the project, so that you eith
 
 In this folder you can access to all the code used for the project
 
+# KiCad  
 
+In this folder you can find the kicad files for the new PCB
